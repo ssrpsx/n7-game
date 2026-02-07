@@ -20,15 +20,7 @@ A mysterious and charming upperclassman, who is widely admired across campus, hi
 
 This project was developed by 6 university friends as a creative and technical collaboration during our first year. We worked together to bring a thrilling and emotional horror story to life.
 
-## 🔮 What's Next?
-
-What really happened that night in the lecture building?  
-Will Lucia escape? Or will she be caught in the darkness that stalks the university halls(N7)?
-
-**Find out in the game... if you dare.**
-
 ## 📷 Screenshots
-Waiting for development
 
 <img src="readme-image/1.png" alt="Desktop Trips" width="1080px">
 <img src="readme-image/2.png" alt="Desktop Trips" width="1080px">
