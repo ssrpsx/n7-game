@@ -20,11 +20,11 @@ A mysterious and charming upperclassman, who is widely admired across campus, hi
 
 This project was developed by 6 university friends as a creative and technical collaboration during our first year. We worked together to bring a thrilling and emotional horror story to life.
 
-## 📷 Screenshots
+## Screenshots
 
 <img src="readme-image/1.png" alt="Desktop Trips" width="1080px">
 <img src="readme-image/2.png" alt="Desktop Trips" width="1080px">
 <img src="readme-image/awake_lucia.png" alt="Desktop Trips" width="1080px">
 
-## 📌 SHOWCASE
+## SHOWCASE
 Watch on youtube : <a href="https://youtu.be/HGPCUkErihg">Click here</a> 
